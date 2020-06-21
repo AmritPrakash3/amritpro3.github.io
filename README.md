@@ -1,2 +1,2 @@
-# amritpro3.webdesign.github.io
+# amritpro3.github.io
 Web design intro
